@@ -11,17 +11,13 @@ EagleGet是一个用于 Windows 系统的下载管理器，它是免费软件。
 
 ### 下载地址
 
-> https://github.com/CrackTheChivalrous/EagleGet/raw/master/EagleGet%20v2.0.4.80.exe（自运行）
-
-### 特别鸣谢
-
-> 郑杰同学：www.intosun.cn
+> [EagleGet v2.0.4.80](https://github.com/CrackTheChivalrous/EagleGet/raw/master/EagleGet%20v2.0.4.80.exe)（自运行）
 
 ### 联系方式
 
 > 邮箱：inssun@qq.com
 >
-> 个人博客：[www.intosun.cn](http://www.intosun.cn/)
+> 博客：[www.intosun.cn](http://www.intosun.cn/)
 
 ### 温馨提示
 
