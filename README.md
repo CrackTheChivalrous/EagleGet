@@ -3,7 +3,7 @@ EagleGet是一个用于 Windows 系统的下载管理器，它是免费软件。
 
 ### 应用截图
 
-![](https://github.com/CrackTheChivalrous/EagleGet/blob/master/img/1.png?raw=true)
+![](https://github.com/CrackTheChivalrous/EagleGet/raw/master/img/img%2001.png)
 
 ### 版本说明
 
